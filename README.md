@@ -1,18 +1,18 @@
 # Olá, eu sou o Bruno Anhaia 👋
 
-Desenvolvedor na **GBL Distribuidora Automotiva**, em Caxias do Sul (RS), construindo as ferramentas digitais que conectam a distribuidora aos clientes.
+Programador full stack em Caxias do Sul (RS). Gosto de construir soluções completas, do back-end ao front-end, e de transformar problemas do dia a dia em software que funciona.
 
-## 🔧 No que eu trabalho
+## 🔧 O que eu faço
 
-🌐 **Portal GBL**: portal web da distribuidora
+💻 **Aplicações web**: sistemas e portais, do desenho à entrega
 
-📱 **App GBL**: aplicativo mobile para catálogo, consulta de preço e estoque, carrinho e pedidos
+📱 **Aplicativos mobile**: apps para Android e iOS
 
-🔗 **SIGER**: integração entre Portal, App e site, incluindo o envio de pedidos e orçamentos
+🔗 **Integrações**: conexão entre sistemas, APIs e automações
 
-## 🎯 Foco atual
+## 🌱 Sempre aprendendo
 
-Fechamento do App GBL para o lançamento (Android e iOS), integração entre sistemas e fluxo de compra no mobile.
+Curioso por natureza, estou sempre testando novas ferramentas e melhorando a forma como entrego software.
 
 ## 📍 Localização
 
@@ -20,4 +20,4 @@ Caxias do Sul, RS, Brasil
 
 ---
 
-*Meus repositórios de trabalho são privados, mas as contribuições aparecem no gráfico do perfil.*
+*Meus repositórios são privados, mas as contribuições aparecem no gráfico do perfil.*
