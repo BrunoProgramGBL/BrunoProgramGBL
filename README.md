@@ -1,4 +1,4 @@
-# Olá, eu sou o Bruno Anhaia 👋
+# Olá, eu sou o Bruno 👋
 
 Programador full stack em Caxias do Sul (RS). Gosto de construir soluções completas, do back-end ao front-end, e de transformar problemas do dia a dia em software que funciona.
 
