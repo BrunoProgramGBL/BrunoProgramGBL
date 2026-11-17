@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Bruno Anhaia 👋
 
-<!--
-**BrunoProgramGBL/BrunoProgramGBL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor na **GBL Distribuidora Automotiva**, em Caxias do Sul (RS), construindo as ferramentas digitais que conectam a distribuidora aos clientes.
 
-Here are some ideas to get you started:
+## 🔧 No que eu trabalho
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Portal GBL**: portal web da distribuidora
+
+📱 **App GBL**: aplicativo mobile para catálogo, consulta de preço e estoque, carrinho e pedidos
+
+🔗 **SIGER**: integração entre Portal, App e site, incluindo o envio de pedidos e orçamentos
+
+## 🎯 Foco atual
+
+Fechamento do App GBL para o lançamento (Android e iOS), integração entre sistemas e fluxo de compra no mobile.
+
+## 📍 Localização
+
+Caxias do Sul, RS, Brasil
+
+---
+
+*Meus repositórios de trabalho são privados, mas as contribuições aparecem no gráfico do perfil.*
